@@ -1,14 +1,13 @@
 ### Hi there 👋, I'm Tolu Smith 😌
 ![](https://res.cloudinary.com/xenerr/image/upload/v1647439605/template_aomqwl.png)
 
-I'm an engineer with strong analytical skills and proficiency in mathematics, looking to advance a promising career in the position of software developer at technological companies and involved
+a software developer more vested in backend development with strong analytical skills and proficiency in mathematics, looking to advance a promising career in the position of software developer at technological companies and involved
 in things greater than oneself. not a business or commercial student but I think am a good business guy who always tries to make each product I build marketable.  loves nice design, In as much as I love good design am an advocate of good coding practice. I write clean, well-structured code that is readable, maintainable, scale-able, and friendly.
 
 Oh, about journey, i am mostly self-taught and as a person who is always determined about getting better in whatever he does. I have always tried to improve myself over the years by learning new technologies and also trying to be better at the previously existing ones.
-
-- 🔭 I’m currently working on talos africa 
-- 🌱 I’m currently learning Rust and Solidity 
-- 💬 Ask me about web3 
+ 
+- 🌱 I’m currently learning Rust and improving my algorithms skills
+- 💬 Ask me about web3 😊
 - 📫 How to reach me: smyxbrone@gmail.com 
 
 
