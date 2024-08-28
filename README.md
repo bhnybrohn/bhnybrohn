@@ -8,3 +8,9 @@
 <p align="left"> <a href="https://twitter.com/bhnybrohn" target="blank"><img src="https://img.shields.io/twitter/follow/bhnybrohn?logo=twitter&style=for-the-badge" alt="bhnybrohn" /></a> </p>
 
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhnybrohn&show_icons=true&locale=en&layout=compact" alt="bhnybrohn" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhnybrohn&show_icons=true&locale=en" alt="bhnybrohn" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhnybrohn&" alt="bhnybrohn" /></p>
